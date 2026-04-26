@@ -1,4 +1,4 @@
-###### UPI Transaction Analysis (2020–2026)
+# UPI Transaction Analysis (2020–2026)
 
 # Problem Statement
 Analyze UPI transaction data to identify growth trends, seasonal patterns, and impact of COVID-19.
@@ -13,7 +13,7 @@ Analyze UPI transaction data to identify growth trends, seasonal patterns, and i
 - SQL (Aggregation, Time Analysis)
 - Power BI (Dashboard Visualization)
 
- ###### HR Attrition Analysis
+ # HR Attrition Analysis
 
 # Problem Statement
 Identify key factors contributing to employee attrition in an organization.
